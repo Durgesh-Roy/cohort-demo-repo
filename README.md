@@ -1,6 +1,6 @@
 ## demo
   This is a  demo file
-  adding a new line in README.d
+  adding 2nd line.
   adding another line to the file
   
   
